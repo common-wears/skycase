@@ -1,0 +1,6 @@
+{
+  "name": "SkyCast - 智能天气预报",
+  "description": "提供实时天气、24小时预报、7天趋势的可视化天气应用，支持全球城市搜索与多城市收藏。",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
